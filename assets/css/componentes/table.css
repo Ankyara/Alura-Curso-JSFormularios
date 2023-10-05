@@ -1,14 +1,10 @@
 .table {
   margin-top: 2.25rem;
-
   width: 100%;
-
   background-color: var(--contrast-light-color);
   border-radius: 10px;
   box-shadow: var(--shadow);
-
   border-collapse: initial;
-
   text-align: left;
 }
 
